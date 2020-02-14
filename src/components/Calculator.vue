@@ -105,6 +105,11 @@ export default {
     border: 1px solid #999; 
     } 
   
+  .button:hover{
+    transform: scale(1.02);
+    background-color: #b2d8d8;
+  }
+  
   .operator {
     background-color: orange; 
     color: white; 

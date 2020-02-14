@@ -1,4 +1,10 @@
-# vue_calculator
+# Vue_calculator
+### Nathan Chan | February 13, 2020
+
+This calculator was created following a simple tutorial from freeCodeCamp.org to dive into Vue and begin to understand its intricacies. 
+
+Tutorial is here: 
+https://www.youtube.com/watch?v=m1_ih43p24s
 
 ## Project setup
 ```
